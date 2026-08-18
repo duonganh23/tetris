@@ -1,6 +1,7 @@
 # Tetris
 
 A classic Tetris clone built with Python and Pygame.
+Instructed from Net Ninja: https://www.youtube.com/watch?v=ROElF_BlUJI&list=PL4cUxeGkcC9iurLoO9Mu7GqsKlxEXcf8m
 
 ## Features
 
